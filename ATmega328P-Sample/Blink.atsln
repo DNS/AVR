@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Blink-Interrupt", "Blink-Interrupt\Blink-Interrupt.cproj", "{2ADC5511-5DF8-4E2C-A7F4-32A549540AE1}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "blink-delay", "Blink-Delay\blink-delay.cproj", "{7D77D285-EDDE-42A6-9470-C20A479BF920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ADC5511-5DF8-4E2C-A7F4-32A549540AE1}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2ADC5511-5DF8-4E2C-A7F4-32A549540AE1}.Debug|AVR.Build.0 = Debug|AVR
+		{2ADC5511-5DF8-4E2C-A7F4-32A549540AE1}.Release|AVR.ActiveCfg = Release|AVR
+		{2ADC5511-5DF8-4E2C-A7F4-32A549540AE1}.Release|AVR.Build.0 = Release|AVR
+		{7D77D285-EDDE-42A6-9470-C20A479BF920}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7D77D285-EDDE-42A6-9470-C20A479BF920}.Debug|AVR.Build.0 = Debug|AVR
+		{7D77D285-EDDE-42A6-9470-C20A479BF920}.Release|AVR.ActiveCfg = Release|AVR
+		{7D77D285-EDDE-42A6-9470-C20A479BF920}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
